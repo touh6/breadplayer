@@ -10,6 +10,11 @@ first, you'll have to buy all the necessary components (check the BOM)
 
 ## schematic:
 <img width="3508" height="2481" alt="v9" src="https://github.com/user-attachments/assets/7335c157-85da-4e51-8f83-bb6974b38566" />
+built using kicad
+
+## wiring diagram:
+<img width="1280" height="917" alt="WhatsApp Image 2026-06-16 at 3 24 42 PM" src="https://github.com/user-attachments/assets/8c788d20-290c-4de1-a4ec-c5cdc0a1ad96" />
+built using fritzing
 
 ## construction:
 <table><tr>
@@ -35,7 +40,8 @@ first, you'll have to buy all the necessary components (check the BOM)
 ## tools i used:
 <ul style="list-style-type:none;">
     <li>schematics: <a href="https://www.kicad.org">kicad</a></li>
-    <li>cad: <a href="https://www.solidworks.com/products/students">solidworks</a></li>
+    <li>cad: <a href="https://www.solidworks.com">solidworks</a></li>
+    <li>wiring diagram: <a href="https://fritzing.org/">fritzing</a></li>
     <li>zine: <a href="https://www.canva.com">canva</a></li>
 </ul>
 
