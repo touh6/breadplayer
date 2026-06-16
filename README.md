@@ -19,18 +19,20 @@ i have a hard time visualizing certain things so i made a 2d version on canva to
 
 ## cardboard edition:
 <table><tr>
-  <td><img src="https://github.com/user-attachments/assets/ea220eb0-dbf6-4d90-9a71-ae7ea30e55da"></td>
-    <td><img src="https://github.com/user-attachments/assets/45cf7ebc-96a3-4762-8125-ba56a491bc2f"></td>
-   <td><img src="https://github.com/user-attachments/assets/fb0c0bec-7162-4903-8ff3-7c8b4198e58b"></td>
-    <td><img src="https://github.com/user-attachments/assets/8140dca5-5eab-4cba-b41a-06bb3e522a46"></td>
+  <td><img src="https://github.com/user-attachments/assets/08c97ef2-a888-46b2-87be-36573881fa1f"></td>
+    <td><img src="https://github.com/user-attachments/assets/c0fa95f3-5423-4dce-ab04-39e5fb3560fb"></td>
+   <td><img src="https://github.com/user-attachments/assets/1005ba38-4d8d-4f6c-9d8b-2b68756e2504"></td>
+    <td><img src="https://github.com/user-attachments/assets/43cd7004-596a-40c1-bbfb-8f08f7e0644c"></td>
 </tr></table>
 
 <table><tr>
-  <td><img src="https://github.com/user-attachments/assets/ea220eb0-dbf6-4d90-9a71-ae7ea30e55da"></td>
-    <td><img src="https://github.com/user-attachments/assets/45cf7ebc-96a3-4762-8125-ba56a491bc2f"></td>
-   <td><img src="https://github.com/user-attachments/assets/fb0c0bec-7162-4903-8ff3-7c8b4198e58b"></td>
-    <td><img src="https://github.com/user-attachments/assets/8140dca5-5eab-4cba-b41a-06bb3e522a46"></td>
+  <td><img src="https://github.com/user-attachments/assets/e09ae462-e4af-4d5e-bc98-fb5909f60c8c"></td>
+    <td><img src="https://github.com/user-attachments/assets/4440cc71-7deb-49e5-86b9-182a8f0a1e28"></td>
+   <td><img src="https://github.com/user-attachments/assets/dc88013b-8672-4dce-802c-d054d54dd53b"></td>
+    <td><img src="https://github.com/user-attachments/assets/57dc5c67-5afa-451b-9743-500566573466"></td>
 </tr></table>
+
+i was quite happy with how the dummy version turned out. i ended up sticking with the same visuals and designed the whole thing on solidworks.
 
 ## to build your own breadplayer: 
 firstly, buy all the components as mentioned in the [bill of materials](https://github.com/touh6/breadplayer/tree/main/bill%20of%20materials), use the perfboard and solder them using the wiring diagram/schematic. and then, you will need to 3d print the enclosure { files of which you can find in the [cad folder](https://github.com/touh6/breadplayer/tree/main/cad) }, assemble it all in the case and you're good to go! :))
