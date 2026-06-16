@@ -5,6 +5,33 @@ a cassette player styled mp3 player with an e-ink display that shows album art w
 ## about the project:
 this is an mp3 player with a 3d printed enclosure that is shaped like a cassette player. the heart of this device is the esp32-wroom microcontroller. other components include a waveshare 4.2'' e-Ink display, tactile buttons, pcm5102a, mt3608 booster, 3.5mm trs jack, microsd module with spi interface, tp4056 charging module, kcd11 spst switch and a 3.7v Li-Po battery. 
 
+i wanted this to be in the shape of a cassette player as i've forever been enamored by retro tech. i absolutely love music; it is an integral part of me and i've always correlated them with my memories. so, this is special to me. 
+
+i have a hard time visualizing certain things so i made a 2d version on canva to understand how i could actually pull this off and once i did, i made a dummy version of the same using cardboard. 
+
+## 2d version:
+<table><tr>
+  <td><img src="https://github.com/user-attachments/assets/ea220eb0-dbf6-4d90-9a71-ae7ea30e55da"></td>
+    <td><img src="https://github.com/user-attachments/assets/45cf7ebc-96a3-4762-8125-ba56a491bc2f"></td>
+   <td><img src="https://github.com/user-attachments/assets/fb0c0bec-7162-4903-8ff3-7c8b4198e58b"></td>
+    <td><img src="https://github.com/user-attachments/assets/8140dca5-5eab-4cba-b41a-06bb3e522a46"></td>
+</tr></table>
+
+## cardboard edition:
+<table><tr>
+  <td><img src="https://github.com/user-attachments/assets/ea220eb0-dbf6-4d90-9a71-ae7ea30e55da"></td>
+    <td><img src="https://github.com/user-attachments/assets/45cf7ebc-96a3-4762-8125-ba56a491bc2f"></td>
+   <td><img src="https://github.com/user-attachments/assets/fb0c0bec-7162-4903-8ff3-7c8b4198e58b"></td>
+    <td><img src="https://github.com/user-attachments/assets/8140dca5-5eab-4cba-b41a-06bb3e522a46"></td>
+</tr></table>
+
+<table><tr>
+  <td><img src="https://github.com/user-attachments/assets/ea220eb0-dbf6-4d90-9a71-ae7ea30e55da"></td>
+    <td><img src="https://github.com/user-attachments/assets/45cf7ebc-96a3-4762-8125-ba56a491bc2f"></td>
+   <td><img src="https://github.com/user-attachments/assets/fb0c0bec-7162-4903-8ff3-7c8b4198e58b"></td>
+    <td><img src="https://github.com/user-attachments/assets/8140dca5-5eab-4cba-b41a-06bb3e522a46"></td>
+</tr></table>
+
 ## to build your own breadplayer: 
 firstly, buy all the components as mentioned in the [bill of materials](https://github.com/touh6/breadplayer/tree/main/bill%20of%20materials), use the perfboard and solder them using the wiring diagram/schematic. and then, you will need to 3d print the enclosure { files of which you can find in the [cad folder](https://github.com/touh6/breadplayer/tree/main/cad) }, assemble it all in the case and you're good to go! :))
 
