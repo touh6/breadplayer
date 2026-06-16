@@ -6,7 +6,7 @@ a cassette player styled mp3 player with an e-ink display that shows album art w
 this is an mp3 player with a 3d printed enclosure that is shaped like a cassette player. the heart of this device is the esp32-wroom microcontroller. other components include a waveshare 4.2'' e-Ink display, tactile buttons, pcm5102a, mt3608 booster, 3.5mm trs jack, microsd module with spi interface, tp4056 charging module, kcd11 spst switch and a 3.7v Li-Po battery. 
 
 ## to build your own breadplayer: 
-firstly, buy all the components as mentioned in the BOM, use the perfboard and solder them using the wiring diagram/schematic. you will need to 3d print the enclosure (files of which you can find in the cad folder), setup the microcontroller, assemble it all in the case and you're good to go! :))
+firstly, buy all the components as mentioned in the [bill of materials](https://github.com/touh6/breadplayer/tree/main/bill%20of%20materials), use the perfboard and solder them using the wiring diagram/schematic. and then, you will need to 3d print the enclosure { files of which you can find in the [cad folder](https://github.com/touh6/breadplayer/tree/main/cad) }, assemble it all in the case and you're good to go! :))
 
 ## schematic:
 <img width="3508" height="2481" alt="v9" src="https://github.com/user-attachments/assets/7335c157-85da-4e51-8f83-bb6974b38566" />
