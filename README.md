@@ -44,5 +44,6 @@ first, you'll have to buy all the necessary components (check the BOM)
 
 
 ## zine:
+<img width="1410" height="2000" alt="breadplayer" src="https://github.com/user-attachments/assets/ce6a359f-36a5-489b-9efd-ccd7631ed872" />
 
 
