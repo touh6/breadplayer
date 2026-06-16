@@ -6,7 +6,7 @@ a cassette player styled mp3 player with an e-ink display that shows album art w
 this is an mp3 player with a 3d printed enclosure that is shaped like a cassette player. the heart of this device is the esp32-wroom microcontroller. other components include a waveshare 4.2'' e-Ink display, tactile buttons, pcm5102a, mt3608 booster, 3.5mm trs jack, microsd module with spi interface, tp4056 charging module, kcd11 spst switch and a 3.7v Li-Po battery. 
 
 ## to build your own breadplayer: 
-first, you'll have to buy all the necessary components (check the BOM) 
+firstly, buy all the components as mentioned in the BOM, use the perfboard and solder them using the wiring diagram/schematic. you will need to 3d print the enclosure (files of which you can find in the cad folder), setup the microcontroller, assemble it all in the case and you're good to go! :))
 
 ## schematic:
 <img width="3508" height="2481" alt="v9" src="https://github.com/user-attachments/assets/7335c157-85da-4e51-8f83-bb6974b38566" />
@@ -46,7 +46,21 @@ built using fritzing
 </ul>
 
 ## bill of materials: 
-
+|name    |quantity  |cost|link|
+|--------|----------|----------------|-----|
+|1) ESP32-WROOM-32 | 1|  $3.58      |[link](https://robu.in/product/esp-wroom-32-esp32-wifi-bt-ble-mcu-module/)|
+|2) Waveshare 4.2'' e-Ink Paper Display Module With SPI Interface | 1|  $29.58    |[link](https://robu.in/product/4-2-inch-e-ink-paper-display-module-with-spi-interface/)|
+|3)  PCM5102a DAC Decoder Module | 1|  $4.74   |[link](https://hubtronics.in/pcm5102-i2s-digital-audio-dac-decoder-module)|
+|4) 3.5mm TRS jack | 1|  $0.10    |[link](https://hubtronics.in/3.5mm-4pole-audio-plug)|
+|5) 3.3V MicroSD SPI Module| 1|  $0.46    |[link](https://robocraze.com/products/sd-card-module)|
+|6) Tactile Buttons| 10|  $0.47    |[link](https://robu.in/product/12x12x12mm-tactile-push-button-switch-10pcs/)|
+|7) 3.7v Li-Po Battery (WLY803040) | 1|  $3.98      |[link](https://robu.in/product/wly803040-1000mah-3-7v-single-cell-rechargeable-lipo-battery/)|
+|8) TP4056 Charging Module| 1|  $0.13  |[link](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/)|
+|9) KCD11 SPST Switch| 1|  $0.15     |[link](https://probots.co.in/rocker-switch-mini-on-off-spst-2-pin-kcd11.html)|
+|10) MT3608 Booster| 1|  $0.34    |[link](https://robu.in/product/mt3608-2a-max-dc-dc-step-up-power-module-booster-power-module/)|
+|10) Perfboard| 4|  $1.05    |[link](https://probots.co.in/dot-pcb-perfboard.html)|
+|shipping  |        |    $3.17 |    |
+|          |      total  |$47.75 |  |  |
 
 
 ## zine:
