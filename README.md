@@ -1,5 +1,5 @@
 # breadplayer
-<img width="3311" height="2409" alt="full rp" src="https://github.com/user-attachments/assets/2dd8f7f9-57a4-48f7-b848-38875791a64c" />
+<img width="3546" height="2712" alt="full ds" src="https://github.com/user-attachments/assets/f10c3aba-e837-42c1-b78a-35978bc906c2" />
 a cassette player styled mp3 player with an e-ink display that shows album art when music is played.
 
 ## about the project:
@@ -13,7 +13,7 @@ first, you'll have to buy all the necessary components (check the BOM)
 
 ## construction:
 <table><tr>
-  <td><img src="https://github.com/user-attachments/assets/d27db581-f3fc-446f-900b-e974e3a784f4"></td>
+  <td><img src="https://github.com/user-attachments/assets/5133af00-e1a4-4d85-8d03-73664748cdc5"></td>
     <td><img src="https://github.com/user-attachments/assets/94fd8153-76ab-4256-9b28-9d3df2d3073e"></td>
 </tr></table>
 
