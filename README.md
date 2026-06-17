@@ -91,6 +91,8 @@ built using fritzing
 |shipping  |        |    $3.17 |    |
 |          |      total  |$47.75 |  |  |
 
+as of 16th june 2026
+
 
 ## zine:
 <img width="1410" height="2000" alt="breadplayer" src="https://github.com/user-attachments/assets/ce6a359f-36a5-489b-9efd-ccd7631ed872" />
