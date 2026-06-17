@@ -98,6 +98,9 @@ decoder->loop();
 
 }
 
+// is soup going to beat us up
+
+
 void togglePause()
 {
 
