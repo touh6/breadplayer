@@ -18,6 +18,8 @@ EPD_BUSY
 )
 );
 
+// tung tung tung sahur
+
 
 void displayBegin()
 {
