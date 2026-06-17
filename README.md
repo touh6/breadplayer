@@ -35,7 +35,7 @@ i have a hard time visualizing certain things so i made a 2d version on canva to
 i was quite happy with how the dummy version turned out. i ended up sticking with the same visuals and designed the whole thing on solidworks.
 
 ## to build your own breadplayer: 
-firstly, buy all the components as mentioned in the [bill of materials](https://github.com/touh6/breadplayer/tree/main/bill%20of%20materials), use the perfboard and solder them using the wiring diagram/schematic. and then, you will need to 3d print the enclosure { files of which you can find in the [cad folder](https://github.com/touh6/breadplayer/tree/main/cad) }, assemble it all in the case, stick using glue and you're good to go! :))
+firstly, buy all the components as mentioned in the [bill of materials](https://github.com/touh6/breadplayer/tree/main/bill%20of%20materials), use the perfboard and solder them using the wiring diagram/schematic. and then, you will need to 3d print the enclosure { files of which you can find in the [cad folder](https://github.com/touh6/breadplayer/tree/main/cad) }, flash the microcontroller with [firmware](https://github.com/touh6/breadplayer/tree/main/firmware) using VS Code with PlatoformIO and then, assemble it all in the case and you're good to go! :))
 
 ## schematic:
 <img width="3508" height="2481" alt="v9" src="https://github.com/user-attachments/assets/7335c157-85da-4e51-8f83-bb6974b38566" />
