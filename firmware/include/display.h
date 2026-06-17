@@ -10,3 +10,7 @@ String art,
 int battery, 
 int seconds
 );
+
+
+
+// 34+33
