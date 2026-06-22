@@ -88,8 +88,9 @@ built using fritzing
 |9) KCD11 SPST Switch| 1|  $0.15     |[link](https://probots.co.in/rocker-switch-mini-on-off-spst-2-pin-kcd11.html)|
 |10) MT3608 Booster| 1|  $0.34    |[link](https://robu.in/product/mt3608-2a-max-dc-dc-step-up-power-module-booster-power-module/)|
 |10) Perfboard| 4|  $1.05    |[link](https://probots.co.in/dot-pcb-perfboard.html)|
+|10) 3D Printing| 4|  $10    |[link](https:/)|
 |shipping  |        |    $3.17 |    |
-|          |      total  |$47.75 |  |  |
+|          |      total  |$57.75 |  |  |
 
 as of 16th june 2026
 
